@@ -53,7 +53,7 @@ my communication skills to share complex results accurately and convincingly, bo
 in writing and orally. Here is a selection of consulting projects I have carried out to completion:
 
 - Successfully identified high-risk populations (vulnerable and poorly vaccinated) in the canton of Geneva to enable the Direction Générale de la Santé (DGS) to optimize the canton's vaccination strategy during the height of the COVID-19 pandemic.
-- In a project with the Fondation genevoise pour le dépistage du cancer,  I identified disparities in screening participation and provided insights into the determinants of participation, leading to a strategic reassessment of their future communications and partnerships.
+- In a project with the Fondation genevoise pour le dépistage du cancer,  I identified disparities in screening participation and provided insights into the determinants of participation, enabling a reassessment of their future communications and recruitment methods.
 - Spearheaded a consulting project analyzing citizen subsidies in the canton of Vaud, Switzerland, including identifying the distribution of
 recipients, assessing regional disparities in utilization, and creating scenarios to optimize social service
 center locations.
