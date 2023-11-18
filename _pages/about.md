@@ -51,5 +51,5 @@ I received my Ph.D in Life Sciences from the [University of Geneva](https://life
 I’m a curious and enjoy integrating disciplines like data science, epidemiology, digital health and spatial science with fields like genetics, microbiology and virology. I am also very result oriented and love working on applied projects providing actionable insights. I enjoy collaborating with people and teams from many disciplines and find it extremely rewarding to learn from different perspectives. I also frequently talk and teach at events, conferences and MAS, CAS and workshops. 
 Through my roles at the University of Geneva and EPFL I have had the chance to consult
 with various organisations about a wide range of topics which gave me experience in
-understanding needs, personalizing approaches and creating value. 
+understanding needs, tailoring approaches, and creating value. 
 
