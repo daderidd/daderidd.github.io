@@ -25,10 +25,10 @@ offer opportunities in many fields through the power of spatial analyses
 and network science.
 
 ### Main fields of interest
-**Precision Public Health, Spatial Epidemiology, Digital Health, Health Systems, Data-driven Decision-making**
+Precision Public Health — Spatial Epidemiology — Digital Health — Health Systems — Climate Change — Data-driven Decision-making
 
 ### Main Skills
-**Data science, Geospatial Analysis, GIS, Causal inference, Machine Learning, Remote Sensing**
+Data science — Statistics — GIS — Causal Inference — Machine Learning — Remote Sensing
 ## Work and research
 In my work, I harness quantitative and computational methodologies to deeply understand
 the spatial dynamics of public health. With a focus on spatial data analysis,
