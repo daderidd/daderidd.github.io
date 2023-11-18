@@ -24,7 +24,7 @@ that the whole is indeed greater than the sum of its parts. These approaches
 offer opportunities in many fields through the power of spatial analyses
 and network science.
 
-## Main fields of interest
+#### Main fields of interest
 **Precision Public Health, Spatial Epidemiology, Digital Health, Health Systems, Data-driven Decision-making**
 
 #### Main Skills
