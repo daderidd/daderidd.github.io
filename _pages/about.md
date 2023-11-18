@@ -16,17 +16,19 @@ and the [GIRAPH group](https://www.giraph.org/).
 I am also a visiting research fellow at [EPFL](https://www.epfl.ch/labs/lgb/geome/) 
 and am affiliatied with the Geneva University Hospitals through 
 the [Unit of Population Epidemiology](https://www.hug.ch/medecine-premier-recours/uep).
-I’m a spatial data scientist by training with a background in bioengineering, 
-but I have just enough expertise in computer science and data science to make trouble.
+I’m a spatial data scientist by training with a background in bioengineering.
 My research and interests are all grounded in the idea that most things, 
 from proteins in a cell to human beings in a community, are connected. This perspective 
 motivates my conviction that holistic, big picture approaches are beneficial, acknowledging
-that the whole is indeed greater than the sum of its parts.
+that the whole is indeed greater than the sum of its parts. These approaches 
+offer opportunities in many fields through the power of spatial analyses
+and network science.
 
-Through my roles at the University of Geneva and EPFL I have had the chance to consult
-with various organisations about a wide range of topics which gave me experience in
-understanding needs, tailoring approaches, and creating value. I have also consolidated my ability to rigorously manage deadlines and budgets while sharpening my communication skills to share complex results accurately and convincingly, both in writing and orally.
+## Main fields of interest
+**Precision Public Health, Spatial Epidemiology, Digital Health, Health Systems, Data-driven Decision-making**
 
+#### Main Skills
+**Data science, Geospatial Analysis, GIS, Causal inference, Machine Learning, Remote Sensing**
 ## Work and research
 In my work, I harness quantitative and computational methodologies to deeply understand
 the spatial dynamics of public health. With a focus on spatial data analysis,
@@ -43,6 +45,9 @@ understanding of healthcare delivery and outcomes. My commitment to these areas 
 underpinned by the belief that robust, data-driven insights are essential for the
 evolution of public health and the well-being of communities.
 
+Through my roles at the University of Geneva and EPFL I have also had the chance to consult
+with various organisations about a wide range of topics which gave me experience in
+understanding needs, tailoring approaches, and creating value. I have also consolidated my ability to rigorously manage deadlines and budgets while sharpening my communication skills to share complex results accurately and convincingly, both in writing and orally.
 
 
 ## Background and history
