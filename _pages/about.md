@@ -33,7 +33,7 @@ offer diverse challenges and the chance to make a meaningful impact.
 Precision Public Health — Spatial Epidemiology — Digital Health — Health Systems — Climate Change — Data-driven Decision-making
 
 ### Main Skills
-Data science — Statistics — GIS — Causal Inference — Machine Learning — Remote Sensing
+Data science — Project Management — Statistics — Fundraising — GIS — Public Speaking — Causal Inference — Machine Learning — Remote Sensing
 
 ## Work and research
 In my work, I harness quantitative and computational methodologies to deeply understand
