@@ -12,23 +12,29 @@ redirect_from:
 
 Hi! I’m David, a Senior Research Fellow at the University of Geneva, 
 Switzerland in the [Faculty of Medicine](https://www.unige.ch/medecine/) 
-and the [GIRAPH group](https://www.giraph.org/). 
-I am also a visiting research fellow at [EPFL](https://www.epfl.ch/labs/lgb/geome/) 
-and am affiliatied with the Geneva University Hospitals through 
+and the [GIRAPH group](https://www.giraph.org/). I am also a visiting research fellow at [EPFL](https://www.epfl.ch/labs/lgb/geome/) 
+and am affiliated with the Geneva University Hospitals through 
 the [Unit of Population Epidemiology](https://www.hug.ch/medecine-premier-recours/uep).
+
+**I will be on the job market for industry, research and humanitarian roles in early 2024!**
+
 I’m a spatial data scientist by training with a background in bioengineering.
 My research and interests are all grounded in the idea that most things, 
 from proteins in a cell to human beings in a community, are connected. This perspective 
 motivates my conviction that holistic, big picture approaches are beneficial, acknowledging
 that the whole is indeed greater than the sum of its parts. These approaches 
 offer opportunities in many fields through the power of spatial analyses
-and network science.
+and network science. I am ready to shift from academic research to a broader industry
+or humanitarian role, I aim to use my skills to solve real-world problems and
+create significant strategies across different sectors. I'm drawn to roles that
+offer diverse challenges and the chance to make a meaningful impact. 
 
 ### Main fields of interest
 Precision Public Health — Spatial Epidemiology — Digital Health — Health Systems — Climate Change — Data-driven Decision-making
 
 ### Main Skills
 Data science — Statistics — GIS — Causal Inference — Machine Learning — Remote Sensing
+
 ## Work and research
 In my work, I harness quantitative and computational methodologies to deeply understand
 the spatial dynamics of public health. With a focus on spatial data analysis,
