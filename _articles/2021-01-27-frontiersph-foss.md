@@ -1,7 +1,7 @@
 ---
 title: "Socioeconomically Disadvantaged Neighborhoods Face Increased Persistence of SARS-CoV-2 Clusters"
 category: articles
-permalink: /articles/2022-05-20-cogsci-community-context-open-source
+permalink: /articles/2021-01-27-frontiersph-foss
 excerpt: "Objective: To investigate the association between socioeconomic deprivation and the persistence of SARS-CoV-2 clusters.
 Methods: We analyzed 3,355 SARS-CoV-2 positive test results in the state of Geneva (Switzerland) from February 26 to April 30, 2020. We used a spatiotemporal cluster detection algorithm to monitor SARS-CoV-2 transmission dynamics and defined spatial cluster persistence as the time in days from emergence to disappearance. Using spatial cluster persistence measured outcome and a deprivation index based on neighborhood-level census socioeconomic data, stratified survival functions were estimated using the Kaplan-Meier estimator. Population density adjusted Cox proportional hazards (PH) regression models were then used to examine the association between neighborhood socioeconomic deprivation and persistence of SARS-CoV-2 clusters.
 Results: SARS-CoV-2 clusters persisted significantly longer in socioeconomically disadvantaged neighborhoods. In the Cox PH model, the standardized deprivation index was associated with an increased spatial cluster persistence (hazard ratio [HR], 1.43 [95% CI, 1.28–1.59]). The adjusted tercile-specific deprivation index HR was 1.82 [95% CI, 1.56–2.17].
