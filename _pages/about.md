@@ -20,8 +20,8 @@ I’m a spatial data scientist by training with a background in bioengineering,
 but I have just enough expertise in computer science and data science to make trouble.
 My research and interests are all grounded in the idea that most things, 
 from proteins in a cell to human beings in a community, are connected. This perspective 
-motivates my belief of the benefits of big picture/holistic approaches that recognize
-that the whole is greater than the sum of its parts.
+motivates my conviction that holistic, big picture approaches are beneficial, acknowledging
+that the whole is indeed greater than the sum of its parts.
 
 
 
