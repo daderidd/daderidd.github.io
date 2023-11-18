@@ -3,6 +3,10 @@ main:
   - title: "Publications"
     url: /articles/
 
+  - title: "About"
+    url: /
+
+
 #  - title: "Talks"
 #    url: /talks/
     
