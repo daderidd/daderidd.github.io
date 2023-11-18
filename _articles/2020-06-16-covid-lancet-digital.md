@@ -8,5 +8,7 @@ date: 2020-06-16
 ---
 <a href="https://doi.org/10.1016/S2589-7500(20)30139-4">Download article here</a>.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U91uJ1FSuuY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Recommended citation: De Ridder, D., Sandoval, J., Vuilleumier, N., Stringhini, S., Spechbach, H., Joost, S., Kaiser, L., & Guessous, I. (2020). Geospatial digital monitoring of COVID-19 cases at high spatiotemporal resolution. The Lancet Digital Health, 2(8), e393–e394. https://doi.org/10.1016/S2589-7500(20)30139-4
