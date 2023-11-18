@@ -16,6 +16,7 @@ and the [GIRAPH group](https://www.giraph.org/). I am also a visiting research f
 and am affiliated with the Geneva University Hospitals through 
 the [Unit of Population Epidemiology](https://www.hug.ch/medecine-premier-recours/uep).
 
+## News 
 **I will be on the job market for industry, research and humanitarian roles in early 2024!**
 
 As a spatial data scientist with a bioengineering background, I view the world through
