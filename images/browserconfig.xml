@@ -4,7 +4,7 @@
     <tile>
       <square70x70logo src="/images/favicon_ddr.png"/>
       <square150x150logo src="/images/favicon_ddr.png"/>
-      <square310x310logo src="/images/favicon_ddr.png"/>
+      <square310x310logo src="/images/favicon_ddr.png?v=M44lzPylqQ"/>
       <wide310x150logo src="/images/favicon_ddr.png"/>
       <TileColor>#000000</TileColor>
     </tile>

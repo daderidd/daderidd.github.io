@@ -28,8 +28,7 @@ that the whole is indeed greater than the sum of its parts.
 ## Work and research
 In my work, I harness quantitative and computational methodologies to deeply understand
 the spatial dynamics of public health. With a focus on spatial data analysis,
-I've engaged with many disciplines, bringing the precision of life sciences to the more
-fluid realm of digital epidemiology. My prior endeavors range from leveraging large
+I've engaged with many disciplines. My prior endeavors range from leveraging large
 Swiss health insurance data to unpack the cost-effectiveness of traditional and
 alternative medicine using causal inference techniques, to scrutinizing the
 epidemiological impacts of air pollution through a detailed spatial lens using
