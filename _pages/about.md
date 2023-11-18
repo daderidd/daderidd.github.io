@@ -23,7 +23,9 @@ from proteins in a cell to human beings in a community, are connected. This pers
 motivates my conviction that holistic, big picture approaches are beneficial, acknowledging
 that the whole is indeed greater than the sum of its parts.
 
-
+Through my roles at the University of Geneva and EPFL I have had the chance to consult
+with various organisations about a wide range of topics which gave me experience in
+understanding needs, tailoring approaches, and creating value. I have also consolidated my ability to rigorously manage deadlines and budgets while sharpening my communication skills to share complex results accurately and convincingly, both in writing and orally.
 
 ## Work and research
 In my work, I harness quantitative and computational methodologies to deeply understand
@@ -48,7 +50,5 @@ I received my Ph.D in Life Sciences from the [University of Geneva](https://life
 
 ## Work philosophy
 I’m a curious and enjoy integrating disciplines like data science, epidemiology, digital health and spatial science with fields like genetics, microbiology and virology. I am also very result oriented and love working on applied projects providing actionable insights. I enjoy collaborating with people and teams from many disciplines and find it extremely rewarding to learn from different perspectives. I also frequently talk and teach at events, conferences and MAS, CAS and workshops. 
-Through my roles at the University of Geneva and EPFL I have had the chance to consult
-with various organisations about a wide range of topics which gave me experience in
-understanding needs, tailoring approaches, and creating value. 
+
 
