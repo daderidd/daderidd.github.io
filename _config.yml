@@ -81,8 +81,6 @@ social:
 author:
   name             : "David De Ridder"
   avatar           : "ddr1.jpeg"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
   bio              : "Spatial data scientist and bioengineer<br> <br> Senior Research Fellow at the University of Geneva, <a style='color: black;' href='https://www.unige.ch/medecine/'>Faculty of Medicine</a> & <a style='color: black;' href='https://www.epfl.ch/labs/lgb/geome/'>EPFL</a>"
   location         : "Geneva, CH"
   employer         :
@@ -98,9 +96,9 @@ author:
   github           : "daderidd"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/daderidd/"
+  instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/david-de-ridder/"
+  linkedin         : "https://www.linkedin.com/in/david-de-ridder"
   orcid            : "https://orcid.org/0000-0001-6462-2501"
   pinterest        :
   soundcloud       :

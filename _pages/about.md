@@ -13,8 +13,8 @@ redirect_from:
 Hi! I’m David, a Senior Research Fellow at the University of Geneva, 
 Switzerland in the [Faculty of Medicine](https://www.unige.ch/medecine/) 
 and the [GIRAPH group](https://www.giraph.org/). 
-I am a visiting research fellow at [EPFL](https://www.epfl.ch/labs/lgb/geome/) 
-and also maintain an affiliation with the Geneva University Hospitals through 
+I am also a visiting research fellow at [EPFL](https://www.epfl.ch/labs/lgb/geome/) 
+and am affiliatied with the Geneva University Hospitals through 
 the [Unit of Population Epidemiology](https://www.hug.ch/medecine-premier-recours/uep).
 I’m a spatial data scientist by training with a background in bioengineering, 
 but I have just enough expertise in computer science and data science to make trouble.
