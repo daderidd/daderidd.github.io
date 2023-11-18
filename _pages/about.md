@@ -18,16 +18,15 @@ the [Unit of Population Epidemiology](https://www.hug.ch/medecine-premier-recour
 
 **I will be on the job market for industry, research and humanitarian roles in early 2024!**
 
-I’m a spatial data scientist by training with a background in bioengineering.
-My research and interests are all grounded in the idea that most things, 
-from proteins in a cell to human beings in a community, are connected. This perspective 
-motivates my conviction that holistic, big picture approaches are beneficial, acknowledging
-that the whole is indeed greater than the sum of its parts. These approaches 
-offer opportunities in many fields through the power of spatial analyses
-and network science. I am ready to shift from academic research to a broader industry
-or humanitarian role, I aim to use my skills to solve real-world problems and
-create significant strategies across different sectors. I'm drawn to roles that
-offer diverse challenges and the chance to make a meaningful impact. 
+As a spatial data scientist with a bioengineering background, I view the world through
+the lens of interconnectedness — from proteins to human communities. This
+perspective fuels my belief in the power of holistic, big-picture approaches,
+recognizing that collective elements often yield greater impact than their individual
+parts. My experience in spatial analysis and network science unlocks potential across
+various fields. Eager to transition from academia to industry or humanitarian roles,
+I aim to leverage my skills to address real-world challenges, devising impactful
+strategies in diverse sectors. I am particularly attracted to roles offering varied
+challenges and opportunities to effect meaningful change.
 
 ### Main fields of interest
 Precision Public Health — Spatial Epidemiology — Digital Health — Health Systems — Climate Change — Data-driven Decision-making
