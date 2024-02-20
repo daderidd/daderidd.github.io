@@ -12,8 +12,8 @@ Between April 6 and May 9, 2020, we enrolled 2766 participants from 1339 househo
 **Interpretation**
 These results suggest that most of the population of Geneva remained uninfected during this wave of the pandemic, despite the high prevalence of COVID-19 in the region (5000 reported clinical cases over <2·5 months in the population of half a million people). Assuming that the presence of IgG antibodies is associated with immunity, these results highlight that the epidemic is far from coming to an end by means of fewer susceptible people in the population. Further, a significantly lower seroprevalence was observed for children aged 5–9 years and adults older than 65 years, compared with those aged 10–64 years. These results will inform countries considering the easing of restrictions aimed at curbing transmission.<br />
 "
-venue: "Nutrients"
-date: 2021-07-05
+venue: "The Lancet"
+date: 2020-06-11
 ---
 
 <a href="https://doi.org/10.1016/S0140-6736(20)31304-0">Access article here</a>.
