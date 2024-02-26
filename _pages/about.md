@@ -17,7 +17,7 @@ and am affiliated with the Geneva University Hospitals through
 the [Unit of Population Epidemiology](https://www.hug.ch/medecine-premier-recours/uep).
 
 
-**I will be on the job market for industry, research and humanitarian roles in early 2024! If you think I could be a good candidate for your academic department or industry research position, please [reach out](https://daderidd.github.io/contact/) to me.**
+**I am looking for new opportunities outside of academia in 2024. If you think I could be a good candidate for your company or organisation, please [reach out](https://daderidd.github.io/contact/) to me.**
 
 As a spatial data scientist with a bioengineering background, I view the world through
 the lens of interconnectedness — from proteins to human communities. This
