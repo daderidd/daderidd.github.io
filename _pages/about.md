@@ -17,15 +17,14 @@ and am affiliated with the Geneva University Hospitals through
 the [Unit of Population Epidemiology](https://www.hug.ch/medecine-premier-recours/uep).
 
 
-**I am looking for new opportunities outside of academia in 2024. If you think I could be a good candidate for your company or organisation, please [reach out](https://daderidd.github.io/contact/) to me.**
+**I am looking for new opportunities in 2024. If you think I could be a good candidate for your institution, company or organisation, please [reach out](https://daderidd.github.io/contact/) to me.**
 
 As a spatial data scientist with a bioengineering background, I view the world through
 the lens of interconnectedness — from proteins to human communities. This
 perspective fuels my belief in the power of holistic, big-picture approaches,
 recognizing that collective elements often yield greater impact than their individual
 parts. My experience in spatial analysis and network science unlocks potential across
-various fields. Eager to transition from academia to industry or humanitarian roles,
-I aim to leverage my skills to address real-world challenges, devising impactful
+various fields. I aim to leverage my skills to address real-world challenges, devising impactful
 strategies in diverse sectors. I am particularly attracted to roles offering varied
 challenges and opportunities to effect meaningful change.
 
