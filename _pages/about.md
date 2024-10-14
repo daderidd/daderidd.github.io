@@ -17,7 +17,7 @@ and am affiliated with the Geneva University Hospitals through
 the [Unit of Population Epidemiology](https://www.hug.ch/medecine-premier-recours/uep).
 
 
-**I am looking for new opportunities in 2024. If you think I could be a good candidate for your institution, company or organisation, please [reach out](https://daderidd.github.io/contact/) to me.**
+**I am looking for new opportunities in 2025. If you think I could be a good candidate for your institution, company or organisation, please [reach out](https://daderidd.github.io/contact/) to me.**
 
 As a spatial data scientist with a bioengineering background, I view the world through
 the lens of interconnectedness — from proteins to human communities. This
